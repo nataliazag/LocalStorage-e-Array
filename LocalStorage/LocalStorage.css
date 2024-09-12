@@ -1,0 +1,32 @@
+body{
+    box-sizing: border-box;
+    text-align: justify;
+    background-color: rgb(186, 232, 250);
+    text-decoration: double;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 20%;
+}
+.container{
+    max-width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #a2c3daa6;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    border-radius: 10px;/*arredondar a borda*/
+    max-width: auto;
+}
+
+.input{
+    border-radius: 8px;
+    height: 22px;
+}
+
+.button{
+    border-radius: 8px;
+    height: 22px;
+    background-color: aliceblue;
+}
+
